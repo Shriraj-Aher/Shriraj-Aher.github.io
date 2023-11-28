@@ -1,2 +1,2 @@
 # Shri-Website
-Personal WEbsite
+Personal Website
